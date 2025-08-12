@@ -1,5 +1,5 @@
 # SmartESS-proxy
-SmartESS (PowMr) to MQTT proxy
+SmartESS (PowMr) to MQTT proxy - Getting real time data from Inverter that use SmartESS cloud
 
 Aim of the project is to adopt PowMr WiFi Plug Pro to send data over MQTT to HASS beside SmartESS cloud.
 It is achived by running SmartESS-proxy and poisoning DNS ess.eybond.com to point to the proxy.
